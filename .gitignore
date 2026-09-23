@@ -1,0 +1,4 @@
+data/*
+!data/.htaccess
+__pycache__/
+*.log

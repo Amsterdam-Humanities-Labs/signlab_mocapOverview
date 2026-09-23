@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^files/?$ files.php [L,QSA]
+RewriteRule ^meta/?$ files.php?meta=1 [L,QSA]
+DirectoryIndex index.php

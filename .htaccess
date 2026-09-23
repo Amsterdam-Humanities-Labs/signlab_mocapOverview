@@ -1,0 +1,5 @@
+# Only the page itself is public; the generator, its log and data stay private.
+<FilesMatch "\.(py|json|log|md)$">
+    Require all denied
+</FilesMatch>
+DirectoryIndex index.php
