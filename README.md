@@ -10,6 +10,9 @@ Built for Jari Andersen and Mabel, to discover and look up mocap files.
 
 ## Where it runs
 The core server, `/web/mocapOverview`, at signcollect.nl/mocapOverview/. Copied read-only from there on 2026-09-23; the server still runs its own copy.
+Demo hosts get it from the stack's deploy (`repos.tsv` row `mocapOverview`); there the page asks for its password, the API needs a key, and the inventory stays empty until `build_inventory.py` has run.
+
+User documentation: https://amsterdam-humanities-labs.github.io/signlab_docs/interfaces/mocap-overview/
 
 ## Status
 Production.
