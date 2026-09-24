@@ -32,3 +32,10 @@ Log: `data/build.log`.
 
 ## Dependencies
 MySQL (`matched_transcriptions`, `form_data`, `mocapoverview_files`), the media and FBX storage on the core server, Python 3.
+
+## License and citation
+
+Apache License 2.0, copyright University of Amsterdam: see [LICENSE](LICENSE) and
+[NOTICE](NOTICE). You may use it, also commercially, as long as you credit
+Gomer Otterspeer / University of Amsterdam as the source. To cite it, use
+[CITATION.cff](CITATION.cff) (the *Cite this repository* button on GitHub) or the DOI [10.21942/uva.33980347](https://doi.org/10.21942/uva.33980347).
